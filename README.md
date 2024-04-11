@@ -1,2 +1,3 @@
 # AnikaSamaiyar.github.io
-my webpage
+14 years old programmer
+AI and bockchain
